@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Emurgo>
+  <TestData>
+    <parameter name ="LanguageName" value ="English"/>
+    <parameter name ="LanguageName" value ="日本語"/>
+    <parameter name ="LanguageName" value ="한국어"/>
+    <parameter name ="LanguageName" value ="简体中文"/>
+    <parameter name ="LanguageName" value ="繁體中文"/>
+  </TestData>
+  <TestData>
+    <parameter name ="Anything" value ="ab1"/>
+    <parameter name ="Anything" value ="cnaa1"/>
+    <parameter name ="Anything" value ="vbaa1"/>
+  </TestData>
+</Emurgo>

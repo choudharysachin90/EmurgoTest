@@ -3,3 +3,5 @@
 ################################################################################
 
 /TestFrameworkSetup/obj
+/TestFrameworkSetup/bin/Debug/net5.0
+/TestAPIFW/obj
