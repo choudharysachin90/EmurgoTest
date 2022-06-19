@@ -12,3 +12,4 @@ You can test your web API just by extending framework.
 Custom test executor - CLI based (can be launched remotely).
 Refactoring -> To handle intermediate custom logic to interact with selenium.
 Report generation.
+Use of inheritance.
